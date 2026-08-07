@@ -40,26 +40,42 @@ I'm a Technical Lead with nearly **9 years of experience** supporting mission-cr
 
 ## 💻 Technology Stack
 
-### Languages
-C# • SQL • XML • JSON
+### Languages & Frameworks
 
-### Frameworks
-.NET Framework • ASP.NET MVC
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge)
 
 ### Databases
-SQL Server • MySQL
 
-### DevOps & Tools
-Azure DevOps • Git • GitHub
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### APIs
-REST API • SOAP API • SoapUI • Postman
 
-### Monitoring
-Splunk • PRTG
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![SOAP API](https://img.shields.io/badge/SOAP_API-5C6BC0?style=for-the-badge)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Infrastructure
-Microsoft IIS • Windows Server
+### Monitoring & Infrastructure
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![PRTG](https://img.shields.io/badge/PRTG_Monitor-0B5CAD?style=for-the-badge)
+![Microsoft IIS](https://img.shields.io/badge/Microsoft_IIS-0078D4?style=for-the-badge)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### Enterprise Tools
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
+![IBM MQ](https://img.shields.io/badge/IBM_MQ-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-B31B1B?style=for-the-badge)  
 
 ---
 
