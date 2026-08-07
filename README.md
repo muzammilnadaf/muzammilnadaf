@@ -125,16 +125,33 @@ Coming Soon 🚀
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/muzammilnadaf/
-- 🌐 Upwork: https://www.upwork.com/freelancers/~0147ca2f7c81e3a05a
-- 📧 Email: nadafmuzammil@gmail.com
+<p align="center">
 
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_UPWORK_URL">
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+## 📈 Contribution Graph
+
+[![Muzammil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mnadaf&theme=tokyo-night)](https://github.com/mnadaf)
 ---
 
 ⭐ Thanks for visiting my profile!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mnadaf&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://komarev.com/ghpvc/?username=mnadaf&style=for-the-badge&color=blue" />
+
 </p>
