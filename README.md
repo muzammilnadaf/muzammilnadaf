@@ -79,6 +79,28 @@ I'm a Technical Lead with nearly **9 years of experience** supporting mission-cr
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnadaf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnadaf&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mnadaf&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mnadaf&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 ## 📌 Featured Projects
 
 Coming Soon 🚀
@@ -112,3 +134,7 @@ Coming Soon 🚀
 ---
 
 ⭐ Thanks for visiting my profile!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mnadaf&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
