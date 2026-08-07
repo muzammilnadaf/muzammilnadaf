@@ -40,8 +40,6 @@ I'm a Technical Lead with nearly **9 years of experience** supporting mission-cr
 
 ## 💻 Technology Stack
 
-<div align="center">
-
 ### Languages & Frameworks
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -78,7 +76,7 @@ I'm a Technical Lead with nearly **9 years of experience** supporting mission-cr
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
 ![IBM MQ](https://img.shields.io/badge/IBM_MQ-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL-B31B1B?style=for-the-badge)  
-</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -129,7 +127,7 @@ Coming Soon 🚀
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p>
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
