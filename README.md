@@ -82,23 +82,23 @@ I'm a Technical Lead with nearly **9 years of experience** supporting mission-cr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnadaf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muzammilnadaf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnadaf&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilnadaf&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mnadaf&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=muzammilnadaf&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mnadaf&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muzammilnadaf&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ## 📌 Featured Projects
@@ -129,15 +129,15 @@ Coming Soon 🚀
 
 <p>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/muzammilnadaf/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_UPWORK_URL">
+<a href="https://upwork.com/freelancers/~0147ca2f7c81e3a05a">
 <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nadafmuzammil@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -145,13 +145,13 @@ Coming Soon 🚀
 
 ## 📈 Contribution Graph
 
-[![Muzammil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mnadaf&theme=tokyo-night)](https://github.com/mnadaf)
+[![Muzammil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muzammilnadaf&theme=tokyo-night)](https://github.com/muzammilnadaf)
 ---
 
 ⭐ Thanks for visiting my profile!
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mnadaf&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=muzammilnadaf&style=for-the-badge&color=blue" />
 
 </p>
