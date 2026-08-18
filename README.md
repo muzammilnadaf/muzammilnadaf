@@ -61,8 +61,7 @@ I'm a Technical Lead with nearly **9 years of experience** supporting mission-cr
 
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![SOAP API](https://img.shields.io/badge/SOAP_API-5C6BC0?style=for-the-badge)
-![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-FF6C37?style=for-the-badge&logo=splunk&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge)\
 
 ### Monitoring & Infrastructure
 
